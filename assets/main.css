@@ -73,3 +73,16 @@ html,
   background: black;
   color: white;
 }
+
+#container {
+  margin: 50px 0 0 0;
+  text-align: left;
+}
+
+
+#text {
+  display: inline-block;
+  color: #2980b9;
+  border-right: 3px solid #2980b9;
+  text-shadow: 2px 2px 60px #0079f2;
+}
